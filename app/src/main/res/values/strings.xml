@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title_activity_player_vs_player">PlayerVsPlayer</string>
+    <string name="playerVsplayer">Player Vs Player</string>
+    <string name="playerVsai">Player Vs AI</string>
+    <string name="nothing">Do Nothing</string>
+    <string name="reset">RESET</string>
+</resources>
